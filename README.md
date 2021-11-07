@@ -3,7 +3,8 @@
 Corpus has been prepared by [the same way as in Berturk.](https://github.com/stefan-it/turkish-bert/issues/28)
 
 - [Latest wikipedia dump](https://dumps.wikimedia.org/trwiki/latest/trwiki-latest-pages-articles.xml.bz2)
-  - I could not find the dump of latest dump in 2 February 2020 which has been used for BERTurk pre-training 
+  - Latest wikipedia dump was 01 November 2021.
+  - BERTurk used Wikipedia dump on 2 February 2020 for pre-training. 
 - Kemal Oflazer's corpus
   - Private
   - Contact with [Mr Oflazer](https://www.andrew.cmu.edu/user/ko/) to get corpus.  
