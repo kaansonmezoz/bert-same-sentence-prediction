@@ -1,0 +1,10 @@
+{
+  "lowercase": false,
+  "input_file": "final",
+  "vocabulary_size": 32000,
+  "minimum_frequency": 2,
+  "special_tokens": ["[PAD]", "[UNK]", "[CLS]", "[SEP]", "[MASK]"],
+  "alphabet_limit": 1000,
+  "output_path": "./",
+  "output_name": "cased"
+}

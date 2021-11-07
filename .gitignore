@@ -204,3 +204,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Project related datasets
+data/
+
+# Project related temp configs
+configs/config.json
