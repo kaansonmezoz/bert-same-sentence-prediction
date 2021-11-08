@@ -23,4 +23,5 @@ trainer = tokenizer.train(
     wordpieces_prefix="##"
 )
 
-tokenizer.save(tokenizer_config["output_path"], tokenizer_config["output_name"])
+tokenizer.save_model(tokenizer_config["output_path"], tokenizer_config["output_name"])
+tokenizer.save("{}/{}.json".format(tokenizer_config["output_path"], tokenizer_config["output_name"]), pretty=True)
