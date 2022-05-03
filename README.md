@@ -1,3 +1,26 @@
+## Citation
+
+Plain text:
+```
+K. Sonmezoz and M. F. Amasyali, "Same Sentence Prediction: A new Pre-training Task for BERT," 2021 Innovations in Intelligent Systems and Applications Conference (ASYU), 2021, pp. 1-6, doi: 10.1109/ASYU52992.2021.9598954.
+```
+
+
+BibTex:
+```
+@INPROCEEDINGS{9598954,
+  author={Sonmezoz, Kaan and Amasyali, Mehmet Fatih},
+  booktitle={2021 Innovations in Intelligent Systems and Applications Conference (ASYU)}, 
+  title={Same Sentence Prediction: A new Pre-training Task for BERT}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ASYU52992.2021.9598954}}
+```
+
+## Training
+
 ### Datasets
 
 Corpus has been prepared by [the same way as in Berturk.](https://github.com/stefan-it/turkish-bert/issues/28)
@@ -30,6 +53,8 @@ Corpus has been prepared by [the same way as in Berturk.](https://github.com/ste
 
 ### Changelog
 
+- 03.05.2022:
+    - Added citation 
 - 03.11.2021: 
     - Added datasets used
     - Repo initialized
