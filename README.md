@@ -21,6 +21,9 @@ BibTex:
 
 ## Training
 
+![image](https://user-images.githubusercontent.com/25352036/166552317-79ef0c25-4f09-4da3-80a7-c42f560aa731.png)
+
+
 ### Datasets
 
 Corpus has been prepared by [the same way as in Berturk.](https://github.com/stefan-it/turkish-bert/issues/28)
